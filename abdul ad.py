@@ -5,7 +5,7 @@ add=a+b
 print(sum)
 print("a", "b", "add")
 # Number 1
-name = 'Attahiru Abdurrahman Dukku $ ' 
+name = 'Attahiru Abdurrahman Dukku & ' 
 department = 'computer_science '
 print(name +  department)
 # Number 2
